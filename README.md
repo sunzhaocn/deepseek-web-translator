@@ -1,5 +1,7 @@
 # DeepSeek 网页自动翻译
 
+[仓库主页](https://github.com/sunzhaocn/deepseek-web-translator) · [安装 / 下载单文件脚本](https://raw.githubusercontent.com/sunzhaocn/deepseek-web-translator/main/deepseek-web-translator.user.js)
+
 当前版本 **1.9.1**。安装文件：`deepseek-web-translator.user.js`。油猴脚本运行时不需要 Node.js、Python 或自建服务器。
 
 ## 安装与更新
